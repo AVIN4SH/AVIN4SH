@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Avinash Kumar Singh and I'm a Frontend Developer, from India 🇮🇳</p>
+<p align="left">My name is Avinash Kumar Singh and I'm a Frontend Developer, from India</p>
 
 ###
 
